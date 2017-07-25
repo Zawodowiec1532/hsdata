@@ -60,6 +60,9 @@ GLUE_CANNOT_RUN_BATTLENET_CLIENT	Hearthstone richiede l'applicazione Blizzard De
 GLUE_CARD_NERF_BODY	\n|4(La seguente carta è stata modificata,Le seguenti carte sono state modificate):\n{0}	0=card names
 GLUE_CARD_NERF_HEADER	Modifiche!	
 GLUE_CARDS_UPDATED	Queste carte sono cambiate.	
+GLUE_CHINA_STORE_BOOSTER_GIFT	赠礼：\n{0}包卡牌包	
+GLUE_CHINA_STORE_WELCOME_BUNDLE_GIFT_1	赠礼：\n\n10包卡牌包	
+GLUE_CHINA_STORE_WELCOME_BUNDLE_GIFT_2	1张传说卡牌	
 GLUE_CHOOSE	Scegli	
 GLUE_CHOOSE_OPPONENT	Scegli l'avversario	
 GLUE_CHOOSE_YOUR_DECK	Scegli il tuo mazzo	
@@ -125,6 +128,7 @@ GLUE_COLLECTION_DECK_OVERWRITE_HEADER	Sostituisci mazzo
 GLUE_COLLECTION_DECK_PASTE	Incolla	
 GLUE_COLLECTION_DECK_PASTE_COMMENT_ARENA_WARNING	Questo mazzo è stato copiato dall'Arena. Potrebbe non essere valido in altre modalità di gioco.	
 GLUE_COLLECTION_DECK_PASTE_COMMENT_INSTRUCTIONS	Per utilizzare questo mazzo, copialo negli appunti e crea un nuovo mazzo in Hearthstone	
+GLUE_COLLECTION_DECK_PASTE_INVALID_CLASS_BODY	Il mazzo che stai cercando di importare è per un'altra classe.	
 GLUE_COLLECTION_DECK_PASTE_POPUP_HEADER	Incolla mazzo	
 GLUE_COLLECTION_DECK_PASTE_TOOLTIP_CLASS_NO_MATCH	Il mazzo copiato è per un'altra classe.	
 GLUE_COLLECTION_DECK_PASTE_TOOLTIP_HEADLINE	Incolla mazzo	
@@ -166,6 +170,7 @@ GLUE_COLLECTION_MANAGER_FAVORITE_DEFAULT_TEXT	{0} preferito
 GLUE_COLLECTION_MANAGER_HELP_ME	Aiutami	
 GLUE_COLLECTION_MANAGER_HERO_SKINS_TITLE	Eroi	
 GLUE_COLLECTION_MANAGER_MANA_TAB_FIRST_CLICK	Clicca nuovamente per disattivare il filtro!	
+GLUE_COLLECTION_MANAGER_ON_ADD_FULL_DECK_ERROR_TEXT	Il tuo mazzo è pieno. Rimuovi prima una carta!	
 GLUE_COLLECTION_MANAGER_SEARCH_ARTIST	artista	
 GLUE_COLLECTION_MANAGER_SEARCH_ATTACK	attacco	
 GLUE_COLLECTION_MANAGER_SEARCH_EXTRA	extra	
@@ -317,6 +322,7 @@ GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_BODY	Clicca su "Informazioni" per cercare
 GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_BODY_PHONE	Tocca "Informazioni" per cercare Fireside Gathering nella tua zona o creane uno tu!	
 GLUE_FIRESIDE_GATHERING_SEARCH_FAILURE_TITLE	Nessun Fireside Gathering in zona	
 GLUE_FIRESIDE_GATHERING_SEARCHING	Ricerca...	
+GLUE_FIRESIDE_GATHERING_TITLE	Fireside Gathering	
 GLUE_FIRESIDE_GATHERING_TURN_ON_GPS_BODY	Attivare i servizi di posizione ti aiuterà a trovare dei Fireside Gathering. Potrai farlo nella prossima finestra.	
 GLUE_FIRESIDE_GATHERING_TURN_ON_GPS_TITLE	Attiva i servizi di posizione	
 GLUE_FIRESIDE_GATHERING_TURN_ON_WIFI_BODY	Attivare il Wi-Fi ti aiuterà a trovare dei Fireside Gathering. Potrai farlo nella prossima finestra.	
@@ -340,6 +346,8 @@ GLUE_FORGE_STORE_ADMISSION	Ammissione
 GLUE_FORGE_STORE_DETAILS1	Forgia un mazzo con carte casuali e scopri quanto riesci a resistere nell'Arena.	
 GLUE_FORGE_STORE_DETAILS2	Più resisti, maggiore sarà la ricompensa!	
 GLUE_FORGE_STORE_HEADLINE	Benvenuto nell'Arena! 	
+GLUE_FROST_FESTIVAL_FREE_ARENA_WIN_DESC	Ahune regala una vittoria a tutte le sessioni avviate durante il Festival del Gelo! Ragnaros farebbe altrettanto? Direi proprio di no.	
+GLUE_FROST_FESTIVAL_FREE_ARENA_WIN_HEADLINE	UNA VITTORIA IN OMAGGIO	
 GLUE_FSG_BRAWL_PLAY_SUBTITLE	Accedi all'elenco amici e sfida uno dei giocatori presenti al tuo Fireside Gathering!	
 GLUE_FSG_BRAWL_PLAY_TITLE	Pronto per una Rissa?	
 GLUE_FSG_FOUND	Fireside Gathering trovato!	
@@ -567,6 +575,8 @@ GLUE_NEARBY_PLAYERS_ENABLE	Attiva per vedere gli altri giocatori vicini e farti 
 GLUE_NINJA	Ninja	
 GLUE_OPEN_PACKS	Apri\nbuste	
 GLUE_OPEN_PACKS_PHONE	Buste	
+GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_DESC	Hai ottenuto un accesso gratuito all'Arena! Questa volta non dovrai pagare alcun costo.	
+GLUE_OUTSTANDING_DRAFT_TICKET_DIALOG_HEADER	Benvenuto nell'Arena!	
 GLUE_PACK_OPENING_ALL_CLASSES	Tutte le classi	
 GLUE_PACK_OPENING_BOOSTER_COUNT	{0}	0=number of owned boosters
 GLUE_PACK_OPENING_HEADER	Apri buste	
@@ -604,8 +614,8 @@ GLUE_QUEST_LOG_PLAY_MODE	Modalità Gioco
 GLUE_QUEST_LOG_TOTAL_LEVELS	<color=#c4b47c>Livello totale:</color> {0}	
 GLUE_QUEST_LOG_TOTAL_WINS_HEADLINE	Vittorie totali	
 GLUE_QUEST_LOG_WINS_HEADLINE	Vittorie in modalità Gioco	
-GLUE_QUEST_NOTIFICATION_CAPTION	La maggior parte delle missioni può essere completata solo in modalità Gioco, Arena o Rissa.	
-GLUE_QUEST_NOTIFICATION_CAPTION_FRIEND_WEEK	Puoi completare le missioni giocando contro gli amici!	Set this string to blank to make it not show up, even when Friend Week is active.
+GLUE_QUEST_NOTIFICATION_CAPTION	La maggior parte delle missioni può essere completata solo contro altri giocatori.	
+GLUE_QUEST_NOTIFICATION_CAPTION_FRIEND_WEEK		Set this string to blank to make it not show up, even when Friend Week is active.
 GLUE_QUEST_NOTIFICATION_HEADER	Missioni di oggi	
 GLUE_QUEST_NOTIFICATION_HEADER_NEW_ONLY	Nuova missione!	
 GLUE_RAF_COPY_COMPLETE	Copiato negli appunti	
@@ -757,6 +767,7 @@ GLUE_STORE_DUNGEON_BUTTON_COST_TEXT	({0} |4(ala,ali) {1})	0=number of wings,1=co
 GLUE_STORE_DUNGEON_BUTTON_PREORDER_TEXT	Preacquisto dell'avventura	
 GLUE_STORE_DUNGEON_BUTTON_TEXT	Avventura completa	
 GLUE_STORE_DUNGEON_BUTTON_TEXT_PURCHASED	Già acquistata	
+GLUE_STORE_DUST_BUTTON_PREORDER_TEXT	{0}点奥术之尘和特殊的卡牌背面图案	0=number of dust
 GLUE_STORE_EULA_AND_TOS_DETAILS	È possibile consultare l'EULA e le Condizioni d'uso sul sito web Blizzard.	
 GLUE_STORE_EULA_AND_TOS_HEADLINE	Condizioni d'uso	
 GLUE_STORE_EULA_AND_TOS_URL_DETAILS	Premi "{0}" per accedere all'EULA e alle Condizioni d'uso sul sito web Blizzard.	
@@ -803,6 +814,8 @@ GLUE_STORE_HERO_BUTTON_COST_OWNED_TEXT	(Acquistato)
 GLUE_STORE_HERO_BUTTON_TEXT_PURCHASED	Già acquistato	
 GLUE_STORE_HERO_PREVIEW	Anteprima	
 GLUE_STORE_HEROES_PURCHASED	Acquistato	
+GLUE_STORE_ICC_PREORDER_DATE	Disponibile da metà agosto*!	
+GLUE_STORE_ICC_PREORDER_DUST_DATE	卡牌包可以在八月中旬打开！	
 GLUE_STORE_INFO_BUTTON_TEXT	i	
 GLUE_STORE_KOREAN_DISCLAIMER_DETAILS	특정 카드를 원하신다면 아래와 같이 ‘마력 추출’ 기능을 통해 100%의 확률로 제작할 수 있습니다.\n   1) 카드 팩을 구매하고 개봉하여 원하는 카드가 있는지 확인합니다.\n   2) 원하는 카드가 없다면 “내 카드” 메뉴에서 필요하지 않은 카드를 선택하고 “마력 추출” 기능을 사용하세요. 이 기능을 사용하면 해당 카드를 제거하고 “신비한 가루”를 획득합니다.\n   3) “내 카드” 메뉴의 “제작하기” 기능으로 “신비한 가루”를 사용하여 원하는 카드를 제작합니다.\n카드 팩 하나당 최소 40개의 “신비한 가루”를 얻을 수 있습니다. 일반/희귀/영웅/전설 카드를 제작하려면 각각 40/100/400/1600개의 “신비한 가루”가 필요합니다. 즉, 카드 팩을 1/3/10/40개 구매하면 반드시 일반/희귀/영웅/전설 카드 하나를 제작할 수 있습니다.	
 GLUE_STORE_KOREAN_DISCLAIMER_HEADLINE	주의!	
@@ -816,6 +829,7 @@ GLUE_STORE_LEAVING_SOON_LEARN_MORE	Informazioni
 GLUE_STORE_MODE_ADVENTURE	Avventure	
 GLUE_STORE_MODE_CARDS	Carte	
 GLUE_STORE_MODE_HEROES	Eroi	
+GLUE_STORE_MODE_NAME_DUST	奥术之尘	
 GLUE_STORE_MONEY_BUTTON_TOOLTIP_HEADLINE	Acquista	
 GLUE_STORE_MSG_PREORDER_DATE	Arriva a inizio dicembre!	
 GLUE_STORE_NO_PAYMENT_DETAILS	Non hai ancora scelto un metodo di pagamento valido. Impostane uno dal sito web Blizzard e riprova.	
@@ -838,13 +852,19 @@ GLUE_STORE_PREORDER	PREACQUISTO
 GLUE_STORE_PREORDER_EXCLUSIVE	ESCLUSIVA DEL PREACQUISTO!	
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_1	Affronta i letali boss dell'ala {0} in un'avventura in solitaria.	0=wing name
 GLUE_STORE_PRODUCT_DETAILS_BRM_PART_2	Ottieni nuove carte del Massiccio Roccianera per la tua collezione, inclusa una Leggendaria!	
+GLUE_STORE_PRODUCT_DETAILS_DUST	•  购买奥术之尘赠送系列卡牌包\n•  每包卡牌包内含5张{0}《炉石传说》卡牌，其中至少1张为稀有或更高品质\n•  奥术之尘可用于在“我的收藏”中制作卡牌	0=pack type
 GLUE_STORE_PRODUCT_DETAILS_FIRST_PURCHASE_BUNDLE	• 10 buste Classiche e 1 carta Leggendaria Classica di classe casuale\n• Ogni busta contiene 5 carte, di cui almeno 1 Rara o migliore	
+GLUE_STORE_PRODUCT_DETAILS_FIRST_PURCHASE_BUNDLE_DUST	•  购买10点奥术之尘赠送10包经典卡牌包和1张随机职业的经典传说卡牌\n•  每包卡牌包内含5张卡牌，其中至少1张为稀有或更高品质\n•  奥术之尘可用于在“我的收藏”中制作卡牌	
 GLUE_STORE_PRODUCT_DETAILS_GORO_PACK_PRESALE	50 buste e un dorso speciale\n• Ogni busta contiene 5 carte, di cui almeno 1 Rara o migliore\n*Le buste potranno essere aperte entro il 30 aprile 2017	
+GLUE_STORE_PRODUCT_DETAILS_HEADLINE_DUST	奥术之尘：	
 GLUE_STORE_PRODUCT_DETAILS_HEADLINE_FIRST_PURCHASE_BUNDLE	Il Pacchetto di Benvenuto include:	
 GLUE_STORE_PRODUCT_DETAILS_HEADLINE_GORO_PACK_PRESALE	Il preacquisto di Viaggio a Un'Goro include:	
+GLUE_STORE_PRODUCT_DETAILS_HEADLINE_ICC_PACK_PRESALE	Il preacquisto dei Cavalieri del Trono di Ghiaccio include:	
 GLUE_STORE_PRODUCT_DETAILS_HEADLINE_OG_PACK_PRESALE	Il preacquisto dei Sussurri degli Dei Antichi include:	
 GLUE_STORE_PRODUCT_DETAILS_HEADLINE_PACK	Contenuti per busta:	
 GLUE_STORE_PRODUCT_DETAILS_HEADLINE_TGT_PACK_PRESALE	Il preacquisto del Gran Torneo include:	
+GLUE_STORE_PRODUCT_DETAILS_ICC_CN_DUST_PRESALE	•  购买50点奥术之尘和1张特殊的卡牌背面图案赠送50包系列卡牌包\n•  每包卡牌包内含5张卡牌，其中至少1张为稀有或更高品质\n *卡牌包可以在2017年8月31日前打开\n•  奥术之尘可用于在“我的收藏”中制作卡牌	
+GLUE_STORE_PRODUCT_DETAILS_ICC_PACK_PRESALE	• 50 buste e un dorso speciale\n• Ogni busta contiene 5 carte, di cui almeno 1 Rara o migliore\n*Le buste potranno essere aperte entro il 31 agosto 2017	
 GLUE_STORE_PRODUCT_DETAILS_KARA_PART_1	Affronta i letali boss dell'ala {0} in un'avventura in solitaria.	0=wing name
 GLUE_STORE_PRODUCT_DETAILS_KARA_PART_2	Ottieni nuove carte di Karazhan per la tua collezione, inclusa una o più Leggendarie!	
 GLUE_STORE_PRODUCT_DETAILS_LOE_PART_1	Affronta i letali boss dell'ala {0} in un'avventura in solitaria.	0=wing name
@@ -857,9 +877,11 @@ GLUE_STORE_PRODUCT_DETAILS_TGT_PACK_PRESALE	• 50 buste e un dorso speciale\n�
 GLUE_STORE_PRODUCT_EVENT_HAS_ENDED	Questo prodotto non è più disponibile.	
 GLUE_STORE_PRODUCT_NAME_BRM_PRESALE_BUNDLE	Preacquisto del Massiccio Roccianera	
 GLUE_STORE_PRODUCT_NAME_BRM_WING_BUNDLE	Avventura del Massiccio Roccianera ({0} |4(ala,ali))	
+GLUE_STORE_PRODUCT_NAME_DUST	{0}个奥术之尘和赠送的{1}包{2}卡牌包	0=quantity of dust,1=quantity of packs,2=pack type
 GLUE_STORE_PRODUCT_NAME_FIRST_PURCHASE_BUNDLE	Pacchetto di Benvenuto	
 GLUE_STORE_PRODUCT_NAME_FORGE_TICKET	Ammissione all'Arena	
 GLUE_STORE_PRODUCT_NAME_GORO_PRESALE_BUNDLE	Viaggio a Un'Goro (preacquisto)	
+GLUE_STORE_PRODUCT_NAME_ICC_PRESALE_BUNDLE	Preacquisto dei Cavalieri del Trono di Ghiaccio	
 GLUE_STORE_PRODUCT_NAME_KARA_PRESALE_BUNDLE	Promozione di lancio di Una notte a Karazhan	
 GLUE_STORE_PRODUCT_NAME_KARA_WING_BUNDLE	Avventura Una notte a Karazhan ({0} |4(ala,ali))	
 GLUE_STORE_PRODUCT_NAME_LOE_WING_BUNDLE	Avventura della Lega degli Esploratori ({0} |4(ala,ali))	
@@ -876,6 +898,7 @@ GLUE_STORE_PRODUCT_PRICE	({0})	0=price
 GLUE_STORE_PRODUCT_PRICE_NA	N/D	
 GLUE_STORE_PURCHASE_LOCK_DESCRIPTION	Il tuo account ha un acquisto in sospeso {0}. Apri Hearthstone dal dispositivo dal quale hai provato a effettuare l'acquisto.\n\nSe il problema persiste, contatta l'assistenza clienti.	0=one of GLOBAL_STORE_MOBILE_NAME_*
 GLUE_STORE_PURCHASE_LOCK_HEADER	Errore d'acquisto	
+GLUE_STORE_QUANTITY_DUST	{0}个奥术之尘	
 GLUE_STORE_QUANTITY_HEADLINE	Cambia quantità	
 GLUE_STORE_QUANTITY_MESSAGE	Quante buste vorresti comprare con l'oro? Il numero massimo è {0}.	
 GLUE_STORE_QUANTITY_PACK	{0} |4(busta,buste)	
@@ -986,6 +1009,8 @@ GLUE_TIP_DEFAULT_29	Nel formato Standard, le strategie sono in costante evoluzio
 GLUE_TIP_DEFAULT_3	Se hai bisogno di aiuto nella creazione di un mazzo,\nusa la funzione "Suggerimenti" nella collezione personale.	
 GLUE_TIP_DEFAULT_30	Nuovi modelli per i mazzi verranno rilasciati in futuro.	
 GLUE_TIP_DEFAULT_31	Nel formato Standard potranno essere usati solo i set più recenti,\nper cui non avrai bisogno di conoscere le carte più vecchie.	
+GLUE_TIP_DEFAULT_32	Puoi completare le missioni giocando con gli amici.	
+GLUE_TIP_DEFAULT_33	Completa le missioni sfidando gli amici!	
 GLUE_TIP_DEFAULT_4	La gemma colorata al centro della carta indica il suo livello di rarità.	
 GLUE_TIP_DEFAULT_5	In ordine crescente, la rarità delle carte è: bianco per Comune,\nblu per Rara, viola per Epica e arancione per Leggendaria.	
 GLUE_TIP_DEFAULT_6	Ogni busta contiene almeno una carta Rara o migliore,\nma potrebbero essercene anche altre!	
@@ -1071,6 +1096,22 @@ GLUE_WELCOME_BUNDLE_RANDOM_CARD_SCROLL_TITLE	Carta Leggendaria del Pacchetto di 
 GLUE_WIN_STREAK	Serie di vittorie: {0}	0=number of wins
 GLUE_WINS	Vittorie	header for number of wins
 GLUE_WOODEN_BANNER_TITLE_FRIEND_WEEK	Amici nemici	
+VO_Ahune_Male_Elemental_Arena_01	LE SFIDE IN ARENA SONO UN CLASSICO DEL FESTIVAL DEL GELO! DIVERTITI A COMPORRE I MAZZI, PARASSITA!	
+VO_Ahune_Male_Elemental_Arena_02	CELEBRA IL FESTIVAL DEL GELO GIOCANDO IN ARENA! DIVERTITI, PARASSITA!	
+VO_Ahune_Male_Elemental_FireFestival_01	IL FESTIVAL DEL FUOCO È FINITO! ORA È IL TURNO DI AHUNE!	
+VO_Ahune_Male_Elemental_FireFestival_02	IL MIO FESTIVAL DEL GELO È MOLTO MEGLIO DI QUELLO DI RAGNAROS!	
+VO_Ahune_Male_Elemental_FireFestival_03	LA MIA RISSA DEL GELO? UNA VENTATA D'ARIA FRESCA RISPETTO A QUELLA DI RAGNAROS.	
+VO_Ahune_Male_Elemental_FireFestival_04	TI PIACE IL FESTIVAL DEL GELO? RICORDATI DI DIRE A RAGNAROS QUANTO È MEGLIO DEL SUO!	
+VO_Ahune_Male_Elemental_FireFestival_06	DIVERTITI, PARASSITA!	
+VO_Ahune_Male_Elemental_FireFestival_07	TI STAI DIVERTENDO?!? DIVERTITI DI PIÙ!	
+VO_Ahune_Male_Elemental_FireFestival_09	IL GELO CALA SU QUESTO MONDO.	
+VO_Ahune_Male_Elemental_FireFestival_10	UN GELIDO VENTO SPAZZA TUTTA AZEROTH.	
+VO_Ahune_Male_Elemental_FireQuests_01	ESEGUI IL MIO ORDINE E GODITI LA SFIDA!	
+VO_Ahune_Male_Elemental_FireQuests_03	PER CASO TI INTERESSA... QUESTA?	
+VO_Ahune_Male_Elemental_FireQuests_04	RAGNAROS TI HA FORSE DONATO DELLE BUSTE DEL TRONO DI GHIACCIO? EH, NON CREDO PROPRIO!	
+VO_Ahune_Male_Elemental_FireQuests_05	PRENDI, UN DONO DAL MIO BENEFATTORE.	
+VO_Ahune_Male_Elemental_FireQuests_09	LE BUSTE SONO SEMPRE LE MIGLIORI RICOMPENSE DI MISSIONE!	
+VO_Ahune_Male_Elemental_FireQuests_11	UN'IMPRESA DEGNA DEL MIO FESTIVAL DEL GELO!	
 VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_01	Eheheh, non sprecare il tuo potenziale!	
 VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_02	Dovresti unirti al Loto di Giada.	
 VO_BOSS_AYA_Female_Pandaren_INTRO_QL_LOTUS1_03	Abbiamo un sacco di cose divertenti!	
